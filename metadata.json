@@ -1,0 +1,6 @@
+{
+  "name": "Chuckle - Tell Me a Joke",
+  "description": "A beautifully crafted, mobile-first joke teller app designed for iPhone and Android with instant wit, punchline reveals, audio speech, and smooth tactile interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
